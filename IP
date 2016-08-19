@@ -1681,3 +1681,12 @@ iptables -I INPUT -s 60.2.210.50 -j DROP
 iptables -I INPUT -s 183.30.64.6 -j DROP
 iptables -I INPUT -s 27.205.138.40 -j DROP
 iptables -I INPUT -s 123.66.96.19 -j DROP
+iptables -I INPUT -s 117.87.36.61 -j DROP
+iptables -I INPUT -s 59.172.84.130 -j DROP
+iptables -I INPUT -s 59.172.86.91 -j DROP
+iptables -I INPUT -s 59.172.84.57 -j DROP
+iptables -I INPUT -s 59.172.84.11 -j DROP
+iptables -I INPUT -s 121.40.145.160 -j DROP
+iptables -I INPUT -s 180.254.248.205 -j DROP
+iptables -I INPUT -s 122.142.147.83 -j DROP
+iptables -I INPUT -s 218.18.139.58 -j DROP
